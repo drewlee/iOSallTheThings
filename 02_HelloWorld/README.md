@@ -1,0 +1,1 @@
+An example of programmatically outputting a UILabel without using the storyboard.
