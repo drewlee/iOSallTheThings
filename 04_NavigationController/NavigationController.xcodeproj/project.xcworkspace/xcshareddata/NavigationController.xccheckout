@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>39999810-4FA4-49E5-9807-6767F6931D40</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NavigationController</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9518E49B-98F5-4637-A073-0A6FAD75B8BC</key>
+		<string>https://github.com/drewlee/iOSallTheThings.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>04_NavigationController/NavigationController.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9518E49B-98F5-4637-A073-0A6FAD75B8BC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/drewlee/iOSallTheThings.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9518E49B-98F5-4637-A073-0A6FAD75B8BC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9518E49B-98F5-4637-A073-0A6FAD75B8BC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSallTheThings</string>
+		</dict>
+	</array>
+</dict>
+</plist>
