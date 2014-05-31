@@ -4,7 +4,7 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--View Controller - Nav Controller-->
         <scene sceneID="ufC-wZ-h7g">
             <objects>
                 <viewController id="vXZ-lx-hvc" customClass="ViewController" sceneMemberID="viewController">
@@ -36,13 +36,13 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="0.9839373911" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
-                    <navigationItem key="navigationItem" id="CL9-31-VzL"/>
+                    <navigationItem key="navigationItem" title="Nav Controller" id="CL9-31-VzL"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="639" y="60"/>
         </scene>
-        <!--Other View Controller-->
+        <!--Other View Controller - Nav Controller-->
         <scene sceneID="bAO-DM-vPS">
             <objects>
                 <viewController id="Ged-D1-cRQ" customClass="OtherViewController" sceneMemberID="viewController">
@@ -63,7 +63,7 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
-                    <navigationItem key="navigationItem" id="f1p-kx-ELl"/>
+                    <navigationItem key="navigationItem" title="Nav Controller" id="f1p-kx-ELl"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="1Fe-g3-kjs" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
